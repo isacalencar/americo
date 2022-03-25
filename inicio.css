@@ -1,0 +1,21 @@
+.inicialContainer {
+    background: linear-gradient( #01c041 , #01c041be);
+    color:#FFFFFF ;
+    padding: 20px;
+    margin-top: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    box-shadow: inset 0 -80px white;
+    margin-bottom: 120px;
+}
+
+.img-inicial {
+  max-width: 80%;
+  border-radius: 20px;
+ 
+}
+.texto-inicial {
+  text-transform: uppercase;
+   padding-bottom: 80px;
+}

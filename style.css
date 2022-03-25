@@ -1,0 +1,19 @@
+/* global */
+@import "./global.css";
+
+/* utilitario */
+@import "./utilitarios.css";
+
+/* header */
+@import "./header.css";
+
+/* inicial */
+@import "./inicio.css";
+
+/* vantagens */
+@import "./vantagens.css";
+
+/*perguntas*/
+@import "./duvida.css";
+
+

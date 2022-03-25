@@ -1,0 +1,20 @@
+.vantagens-texto{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ gap:10px;
+ text-align: center;
+ margin-bottom: 60px;
+}
+
+.vantagens-titulo  {
+   display:  block;
+   text-align: center;
+   
+}
+.vantagens-int {
+  background-color: rgb(247, 247, 247);
+}
+
+.vantagens-img {
+    max-width: 8%;
+}

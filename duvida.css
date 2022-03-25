@@ -1,0 +1,15 @@
+
+.perguntaContainer {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    align-items: start;
+}
+
+.pergunta-img {
+    max-width: 55%;
+}
+
+.perguntas-texto {
+
+}
