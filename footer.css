@@ -1,0 +1,6 @@
+.footerContainer {
+    background-color:#D1D2D4 ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px;
+}

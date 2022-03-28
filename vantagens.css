@@ -4,6 +4,7 @@
  gap:10px;
  text-align: center;
  margin-bottom: 60px;
+ padding: 20px;
 }
 
 .vantagens-titulo  {
@@ -17,4 +18,11 @@
 
 .vantagens-img {
     max-width: 8%;
+}
+
+@media (max-width:600px){
+  .vantagens-texto{ 
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }

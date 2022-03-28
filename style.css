@@ -16,4 +16,8 @@
 /*perguntas*/
 @import "./duvida.css";
 
+/*promocional*/
+@import "./promocional.css";
 
+/*footer/rodape*/
+@import"./footer.css";

@@ -18,4 +18,27 @@
 .texto-inicial {
   text-transform: uppercase;
    padding-bottom: 80px;
+   
+}
+
+@media (max-width:900px){
+  .inicialContainer{
+    grid-template-columns: 1fr;
+    
+   
+  }
+  .texto-inicial {
+    padding-bottom: 40px;
+  }
+
+  
+}
+
+@media (max-width:600px) {
+  .texto-inicial h1{ 
+    font-size: 1.5rem;
+   }
+  .texto-inicial p{
+    
+  }
 }
