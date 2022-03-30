@@ -8,3 +8,16 @@
 .p-1rem {
    font-size: 1rem;
 }
+
+
+@media (max-width:600px){
+  .h-2rem {
+    font-size: 1.1rem;
+  }
+  .h-15rem {
+    font-size: 1rem;
+  }
+  .h-1rem{
+    font-size: 0.5rem;
+  }
+}

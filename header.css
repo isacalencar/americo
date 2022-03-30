@@ -10,6 +10,7 @@
 }
 
 .botaoh {
+    display: flex;
     background-color:#008A07 ;
     list-style: none;
     color: white;
@@ -19,3 +20,5 @@
 .botaoh:hover{
     background-color:#008a07d8 ;
 }
+
+

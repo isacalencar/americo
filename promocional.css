@@ -24,6 +24,26 @@
    max-width: 50ch;
     
 }
+.botaox {
+    display: flex;
+    background-color:#910091;
+    list-style: none;
+    color: white;
+    padding: 15px;
+    border-radius: 4px;
+    
+}
+.botaox:hover {
+    background-color:#910091b2;
+}
 
-
-
+@media (max-width:800px){
+    .promocionalContainer {
+     box-shadow: none;   
+    }
+}
+@media (max-width:400px) {
+    .img-prom {
+        display: none;
+    }
+}
